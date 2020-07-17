@@ -1,0 +1,12 @@
+ Volume in drive F is New Volume
+ Volume Serial Number is EC80-5AD4
+
+ Directory of F:\My_project
+
+07/18/2020  01:05 AM    <DIR>          .
+07/18/2020  01:05 AM    <DIR>          ..
+07/15/2020  03:03 PM                42 python_first.py
+07/18/2020  01:05 AM                 0 test1.txt
+07/17/2020  12:06 AM                 9 text1.txt
+               3 File(s)             51 bytes
+               2 Dir(s)  171,764,727,808 bytes free
