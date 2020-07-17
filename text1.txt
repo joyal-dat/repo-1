@@ -1,10 +1,1 @@
- Volume in drive F is New Volume
- Volume Serial Number is EC80-5AD4
-
- Directory of F:\My_project
-
-07/16/2020  11:57 PM    <DIR>          .
-07/16/2020  11:57 PM    <DIR>          ..
-07/16/2020  11:57 PM                 0 text1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  171,764,731,904 bytes free
+change -1
