@@ -1,1 +1,1 @@
-Webhook configuration
+Webhook configuration success
